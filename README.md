@@ -2,5 +2,5 @@
 
 - Training to be a Data Product Consultant at Kubrick Group
 - Upskilling in SQL, Git, Python, Alteryx 
-- Spend way too long on building a second brain in Obsidian
+- Spend way too much effort and time building a second brain in Obsidian
 - 🏃‍♀️,💃🏽,🎷,☀️
